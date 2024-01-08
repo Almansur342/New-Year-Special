@@ -1,0 +1,234 @@
+body {
+  font-family: 'Merriweather', serif;
+
+}
+
+/* header section styles */
+.header {
+  background-image: url(../resources/Banner\ Image.png);
+  padding: 177px 370px;
+  margin: 50px 100px 120px 100px;
+  border-radius: 16px;
+  background-repeat: no-repeat;
+}
+
+
+.sub-title {
+  color: #FFF;
+  text-align: center;
+  font-size: 32px;
+  font-weight: 400;
+}
+
+.title {
+  color: #FFF;
+  text-align: center;
+  font-size: 72px;
+  font-weight: 900;
+  line-height: 95px;
+  margin-top: 0px;
+}
+
+/* second page style */
+.second-page {
+  text-align: center;
+  font-family: 'Inter', sans-serif;
+  margin-bottom: 120px;
+  margin-left: 398px;
+  margin-right: 398px;
+
+}
+
+.second-page .offer {
+  color: #F00;
+  text-align: center;
+  font-size: 88px;
+  font-weight: 700;
+  margin-bottom: 28px;
+}
+
+.second-page .sub-title {
+  color: #F00;
+  text-align: center;
+  font-size: 24px;
+  font-weight: 500;
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+
+.second-page .title {
+  color: #070211;
+  text-align: center;
+  margin-top: 0px;
+  font-size: 48px;
+  font-weight: 700;
+  margin-bottom: 28px;
+
+}
+
+.second-page .image {
+  /* width: 802.9px;
+  height: 500px; */
+  margin-top: 0px;
+  width: 80%;
+
+}
+
+/* third page style */
+.third-page {
+  background-image: url(../resources/Vectorrr.png);
+  background-repeat: no-repeat;
+  margin: 0px 130px;
+  padding: 67px 13px 67px 126px;
+  border-radius: 16px;
+
+}
+
+.third-page .banner {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  /* padding: 67px 138px 67px 126px; */
+  /* border-radius: 16px; */
+}
+
+
+
+.third-page .title {
+  color: #FFF;
+  font-size: 64px;
+  font-weight: 900;
+  line-height: 88px;
+  letter-spacing: 7.04px;
+  width: 642px;
+  text-align: left;
+}
+
+.third-page .desciption {
+  color: rgba(255, 255, 255, 0.80);
+  font-family: Inter;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px;
+
+}
+
+.third-page .button {
+  text-decoration: none;
+  color: white;
+  text-align: center;
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-top: 32px;
+  margin-left: 30px;
+}
+
+/* fourth page styles */
+.fourth-page {
+  text-align: center;
+  padding: 70px 300px 90px 300px;
+  margin: 120px 140px;
+  background-color: rgba(255, 0, 0, 0.10);
+}
+
+.fourth-page .head {}
+
+#place {
+  margin-bottom: 0px;
+}
+
+#date {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+#time {
+  margin-top: 0px;
+}
+
+.fourth-page .text {
+  color: #070211;
+  font-family: Inter;
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 56px;
+  text-transform: capitalize;
+}
+
+.fourth-page .special {
+  color: #F00;
+  text-align: center;
+  font-family: Inter;
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 56px;
+  text-transform: capitalize;
+}
+
+.fourth-page .button {
+  color: #FFF;
+  text-align: center;
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding: 16px 32px;
+  border-radius: 8px;
+  background: #F00;
+  text-decoration: none;
+
+}
+
+/* fifth page style */
+.fifth-page {
+  margin: 120px 140px;
+}
+
+.fifth-page .new-arrival {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.fifth-page .title {
+  color: #F00;
+  text-align: left;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+  margin-bottom: 0px;
+}
+
+.fifth-page .sub-title {
+  color: #070211;
+  font-size: 48px;
+  font-weight: 900;
+  text-transform: capitalize;
+  text-align: left;
+  margin-top: 0px;
+  margin-bottom: 0px;
+
+}
+
+.fifth-page .description {
+  color: rgba(7, 2, 17, 0.60);
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 400;
+  margin-top: 3px;
+  width: 393px;
+}
+
+.fifth-page .picture {
+  width: 364.844px;
+  height: 364.844p;
+  margin: 40px;
+}
+.fifth-page .second-part{
+  border: 8px solid red;
+  border-radius: 463px;
+  margin-right: 118px;
+}
